@@ -1,3 +1,4 @@
+import { ListaCompleta } from "./components/ListaCompleta";
 import { ListaTarefas } from "./components/ListaTarefas";
 import { GlobalStyle } from "./GlobalStyle";
 
